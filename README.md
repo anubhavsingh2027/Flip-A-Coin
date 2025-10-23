@@ -1,2 +1,45 @@
-# Flip-A-Coin
-Flip A Coin is a fun and interactive website that lets users make quick decisions with a single click. Built with modern web technologies, it features smooth animations, realistic coin flips, and instant results — heads or tails! Perfect for games, challenges, or simple decision-making moments.
+# 🪙 Flip a Coin
+
+A fun and interactive website to flip a virtual coin — no coins needed! Simply click to flip and watch smooth animations decide your luck in real time.
+
+![Flip a Coin Preview](https://flip-a-coin.anubhavsingh.website/images/websiteImg.png)
+
+---
+
+## 🌐 Live Demo
+[View Website](https://flip-a-coin.anubhavsingh.website/)
+
+---
+
+## ✨ Features
+- 🎯 Simple and clean UI
+- ⚡ Fast and responsive coin flipping animation
+- 🔄 Realistic flip results (Heads or Tails)
+- 📱 Fully responsive design for all devices
+- 💡 Built with HTML, CSS, and JavaScript
+
+---
+
+## 🧠 How It Works
+Just press the **"Flip"** button and watch the coin spin with a realistic 3D animation. The result — **Heads or Tails** — appears instantly after the flip.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Animation:** CSS transitions and JS logic
+
+---
+
+## 🚀 Getting Started
+
+To run locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/flip-a-coin.git
+
+# Open project folder
+cd flip-a-coin
+
+# Open index.html in your browser
