@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Realistic Coin Flip</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="container">
-    <h1>Flip a Coin</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Realistic Coin Flip</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="loader-container">
+      <div class="loader"></div>
+      <p class="loader-text">This website is made for educational purposes</p>
+    </div>
+    <div class="container">
+      <h1>Flip a Coin</h1>
 
-    <div class="coin" id="coin">
-      <div class="side front"><img src="images/head.webp" alt="Heads" /></div>
-      <div class="side back"><img src="images/tail.webp" alt="Tails" /></div>
+      <div class="coin" id="coin">
+        <div class="side front"><img src="images/head.webp" alt="Heads" /></div>
+        <div class="side back"><img src="images/tail.webp" alt="Tails" /></div>
+      </div>
+
+      <button onclick="flipCoin()">Flip Coin</button>
+      <p id="result">Click to flip the coin</p>
+      <p id="counter">Heads: 0 | Tails: 0</p>
+
+      <audio id="flip-sound" src="flip.mp3" preload="auto"></audio>
     </div>
 
-    <button onclick="flipCoin()">Flip Coin</button>
-    <p id="result">Click to flip the coin</p>
-    <p id="counter">Heads: 0 | Tails: 0</p>
-
-    <audio id="flip-sound" src="flip.mp3" preload="auto"></audio>
-  </div>
-
-  <script src="script.js"></script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
