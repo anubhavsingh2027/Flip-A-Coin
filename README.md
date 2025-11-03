@@ -2,12 +2,12 @@
 
 A fun and interactive website to flip a virtual coin — no coins needed! Simply click to flip and watch smooth animations decide your luck in real time.
 
-![Flip a Coin Preview](https://flip-a-coin.anubhavsingh.website/images/websiteImg.png)
+![Flip a Coin Preview](https://anubhavsingh2027.github.io/Flip-A-Coin/images/websiteImg.png)
 
 ---
 
 ## 🌐 Live Demo
-[View Website](https://flip-a-coin.anubhavsingh.website/)
+[View Website](https://anubhavsingh2027.github.io/Flip-A-Coin/)
 
 ---
 
