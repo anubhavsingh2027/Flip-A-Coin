@@ -41,7 +41,7 @@ To run locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/flip-a-coin.git
+git clone https://github.com/anubhavsingh2027/flip-a-coin.git
 
 # Open project folder
 cd flip-a-coin
