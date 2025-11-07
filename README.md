@@ -2,16 +2,18 @@
 
 A fun and interactive website to flip a virtual coin — no coins needed! Simply click to flip and watch smooth animations decide your luck in real time.
 
-![Flip a Coin Preview](https://anubhavsingh2027.github.io/Flip-A-Coin/images/websiteImg.png)
+![Flip a Coin Preview](https://flip-a-coin-three.vercel.app/images/websiteImg.png)
 
 ---
 
 ## 🌐 Live Demo
-[View Website](https://anubhavsingh2027.github.io/Flip-A-Coin/)
+
+[View Website](https://flip-a-coin-three.vercel.app/)
 
 ---
 
 ## ✨ Features
+
 - 🎯 Simple and clean UI
 - ⚡ Fast and responsive coin flipping animation
 - 🔄 Realistic flip results (Heads or Tails)
@@ -21,11 +23,13 @@ A fun and interactive website to flip a virtual coin — no coins needed! Simply
 ---
 
 ## 🧠 How It Works
+
 Just press the **"Flip"** button and watch the coin spin with a realistic 3D animation. The result — **Heads or Tails** — appears instantly after the flip.
 
 ---
 
 ## 🛠️ Tech Stack
+
 - **Frontend:** HTML, CSS, JavaScript
 - **Animation:** CSS transitions and JS logic
 
@@ -43,3 +47,4 @@ git clone https://github.com/your-username/flip-a-coin.git
 cd flip-a-coin
 
 # Open index.html in your browser
+```
